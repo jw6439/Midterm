@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>index</title>
+  <link rel="stylesheet" href="./index.css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="nav w">
+      <div class="left">
+        <ul>
+          <li><a href="#"><img src="./images/home.png" alt=""></a></li>
+        </ul>
+        <ul>
+          <li><a href="#"><img src="./images/people.png" alt=""></a></li>
+        </ul>
+      </div>
+      <div class="right">
+        <ul>
+          <li><a href="#"><img src="./images/plus.png" alt=""></a></li>
+        </ul>
+        <ul>
+          <li><a href="#"><img src="./images/user.png" alt=""></a></li>
+        </ul>
+      </div>
+    </div>
+    <h2>WellnessMindspace</h2>
+    <div class="inp">
+      <input type="text" placeholder="what can i do to relieve pressure in my head"><img src="./images/search.png"
+        alt="">
+    </div>
+
+    <div class="title ">
+      <ul>
+        <li><a href="#">Spacers Answers</a></li>
+        <li><a href="#">Articles</a></li>
+      </ul>
+    </div>
+
+    <div class="box">
+      <span>Sarah:</span>
+      <p>I find this website really helpful!</p>
+      <a href="https://www.youtube.com/watch?v=loblMfQY9i0">https://www.youtube.com/watch?v=loblMfQY9i0</a>
+      <img src="./images/xin.png" alt="">
+    </div>
+    <div class="box">
+      <span>Larry:</span>
+      <img src="./images/xin.png" alt="">
+
+    </div>
+    <div class="box">
+      <span>Josh:</span>
+      <img src="./images/xin.png" alt="">
+
+
+    </div>
+    <div class="box">
+      <span>Nicholas</span>
+      <img src="./images/xin.png" alt="">
+
+
+    </div>
+
+
+  </div>
+</body>
+
+</html>
